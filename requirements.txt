@@ -4,5 +4,7 @@ google-auth-httplib2
 mcp
 replicate
 requests
-moviepy
+moviepy[ffmpeg]
 python-dotenv
+imageio
+imageio-ffmpeg
